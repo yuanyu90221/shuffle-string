@@ -185,7 +185,8 @@ func Test_restoreString(t *testing.T) {
 }
 
 ```
-
+## my self record
+[leetcode golang 30day 8th day](https://hackmd.io/bVPizrg4QCu9mY5ZyuNBnA?view)
 ## 參考文章
 
 [golang test](https://ithelp.ithome.com.tw/articles/10204692)
